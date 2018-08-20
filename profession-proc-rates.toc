@@ -1,0 +1,6 @@
+## Interface: 80000
+## Title: Profession proc rate tracker
+## Author: Jonas Munthe Flønes
+## Version: 0.1
+## LoadManagers: AddonLoader
+## X-LoadOn-Always: delayed

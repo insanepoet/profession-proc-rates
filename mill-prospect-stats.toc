@@ -1,4 +1,0 @@
-## Interface: 80000
-## Title: Milling and prospecting stats
-## Author: Jonas Munthe Flønes
-## Version: 0.1
